@@ -2,13 +2,7 @@
 org = "nuvindu_dias"
 name = "graphql_subscriptions"
 version = "0.1.0"
-distribution = "2201.2.0-rc1"
+distribution = "2201.2.0"
 
 [build-options]
 observabilityIncluded = true
-
-[[dependency]]
-org = "ballerina"
-name = "graphql"
-version = "1.4.0"
-repository = "local"
