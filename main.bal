@@ -3,7 +3,7 @@ import nuvindu/pubsub;
 
 @graphql:ServiceConfig {
     graphiql: {
-        enable: true
+        enabled: true
     }
 }
 
